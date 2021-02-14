@@ -1,0 +1,19 @@
+G:\Training\9-Desktop App (.Net)\3-.NET\Tasks\Calculator_APP\bin\Debug\Calculator_APP.exe.config
+G:\Training\9-Desktop App (.Net)\3-.NET\Tasks\Calculator_APP\bin\Debug\Calculator_APP.exe
+G:\Training\9-Desktop App (.Net)\3-.NET\Tasks\Calculator_APP\bin\Debug\Calculator_APP.pdb
+G:\Training\9-Desktop App (.Net)\3-.NET\Tasks\Calculator_APP\obj\Debug\Calculator_APP.WinCalculator.resources
+G:\Training\9-Desktop App (.Net)\3-.NET\Tasks\Calculator_APP\obj\Debug\Calculator_APP.Properties.Resources.resources
+G:\Training\9-Desktop App (.Net)\3-.NET\Tasks\Calculator_APP\obj\Debug\Calculator_APP.csproj.GenerateResource.cache
+G:\Training\9-Desktop App (.Net)\3-.NET\Tasks\Calculator_APP\obj\Debug\Calculator_APP.csproj.CoreCompileInputs.cache
+G:\Training\9-Desktop App (.Net)\3-.NET\Tasks\Calculator_APP\obj\Debug\Calculator_APP.exe
+G:\Training\9-Desktop App (.Net)\3-.NET\Tasks\Calculator_APP\obj\Debug\Calculator_APP.pdb
+C:\Users\mohamed.ahmed.CARI-TECH\Downloads\Calculator-App\Calculator_APP\obj\Debug\Calculator_APP.csprojAssemblyReference.cache
+C:\Users\mohamed.ahmed.CARI-TECH\Downloads\Calculator-App\Calculator_APP\obj\Debug\Calculator_APP.WinCalculator.resources
+C:\Users\mohamed.ahmed.CARI-TECH\Downloads\Calculator-App\Calculator_APP\obj\Debug\Calculator_APP.Properties.Resources.resources
+C:\Users\mohamed.ahmed.CARI-TECH\Downloads\Calculator-App\Calculator_APP\obj\Debug\Calculator_APP.csproj.GenerateResource.cache
+C:\Users\mohamed.ahmed.CARI-TECH\Downloads\Calculator-App\Calculator_APP\obj\Debug\Calculator_APP.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.ahmed.CARI-TECH\Downloads\Calculator-App\Calculator_APP\obj\Debug\Calculator_APP.exe
+C:\Users\mohamed.ahmed.CARI-TECH\Downloads\Calculator-App\Calculator_APP\obj\Debug\Calculator_APP.pdb
+C:\Users\mohamed.ahmed.CARI-TECH\Downloads\Calculator-App\Calculator_APP\bin\Debug\Calculator_APP.exe.config
+C:\Users\mohamed.ahmed.CARI-TECH\Downloads\Calculator-App\Calculator_APP\bin\Debug\Calculator_APP.exe
+C:\Users\mohamed.ahmed.CARI-TECH\Downloads\Calculator-App\Calculator_APP\bin\Debug\Calculator_APP.pdb
